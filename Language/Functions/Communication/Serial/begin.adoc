@@ -22,7 +22,7 @@ An optional second argument configures the data, parity, and stop bits. The defa
 
 [float]
 === Syntax
-`Serial.begin(speed)`
+`Serial.begin(speed)` 
 `Serial.begin(speed, config)`
 
 _Arduino Mega only:_
